@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-function-based-News-application/static/css/main.073c9b0a.css",
-    "main.js": "/react-function-based-News-application/static/js/main.c9b81f14.js",
-    "static/js/787.4c026eef.chunk.js": "/react-function-based-News-application/static/js/787.4c026eef.chunk.js",
-    "index.html": "/react-function-based-News-application/index.html",
-    "main.073c9b0a.css.map": "/react-function-based-News-application/static/css/main.073c9b0a.css.map",
-    "main.c9b81f14.js.map": "/react-function-based-News-application/static/js/main.c9b81f14.js.map",
-    "787.4c026eef.chunk.js.map": "/react-function-based-News-application/static/js/787.4c026eef.chunk.js.map"
+    "main.css": "/react-Function-based-News-app/static/css/main.073c9b0a.css",
+    "main.js": "/react-Function-based-News-app/static/js/main.0e031f99.js",
+    "static/js/787.4c026eef.chunk.js": "/react-Function-based-News-app/static/js/787.4c026eef.chunk.js",
+    "index.html": "/react-Function-based-News-app/index.html",
+    "main.073c9b0a.css.map": "/react-Function-based-News-app/static/css/main.073c9b0a.css.map",
+    "main.0e031f99.js.map": "/react-Function-based-News-app/static/js/main.0e031f99.js.map",
+    "787.4c026eef.chunk.js.map": "/react-Function-based-News-app/static/js/787.4c026eef.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.c9b81f14.js"
+    "static/js/main.0e031f99.js"
   ]
 }
